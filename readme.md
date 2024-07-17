@@ -1,6 +1,6 @@
 # Penguin.Operator
 ``` ruby
 i.love([
-    implementing(everything, from(0))
+    implementing(everything, from=0)
 ])
 ```
